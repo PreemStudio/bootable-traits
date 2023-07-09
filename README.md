@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/bootable-traits/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/bootable-traits" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/bootable-traits">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/bootable-traits" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/bootable-traits">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/bootable-traits" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/bootable-traits">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/bootable-traits" alt="License" />
-    </a>
-</p>
 
 ## About Bootable Traits
 
